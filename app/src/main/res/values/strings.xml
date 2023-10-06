@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent_kotlin</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="say_hello">Say hello!</string>
+    <string name="hello_sun">Hello %s</string>
+    <string name="take_picture">Take picture</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="send_text">Send text</string>
+</resources>
